@@ -1,4 +1,4 @@
-# frontend-toyproblems-metrics
+# Frontend Toy Problems 
 
 ## Instructions
 1. Fork the repo to your own account.
