@@ -2,12 +2,7 @@
 
 
 var add = function(array, i, total) {
-  total = total || 0;
-  if(i > array.length-1) {
-    return total;
-  } else {
-    total+=array[i];
-    return add(array,i+1,total);
-  }
-  return total;
+  //START CODE HERE//
+
+  //END CODE HERE//
 };
